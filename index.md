@@ -4,3 +4,4 @@
 #### This is adding more information
 ##### This is the 5th line
 ###### This is the smallest
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
